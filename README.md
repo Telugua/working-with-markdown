@@ -92,5 +92,5 @@ dcase@nwmissouri.edu
 
 Hi My name is Abhishek Telugu. This is my very first class of repository. Today I learn how to create a repository. I just want to test this repository. Here are some good lines.
 
-![Hosted image](https://www.google.com/search?q=swami+vivekananda+quotes&rlz=1C1GCEB_enUS831US831&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjGkviU3_LfAhVSvKwKHWyGD18Q_AUIDigB&biw=1366&bih=626#imgrc=CGwWG9r2dxOykM:)
+![Hosted image](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "Lynx Kitten")
 
