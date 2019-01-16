@@ -90,7 +90,7 @@ dcase@nwmissouri.edu
 
 ##  My new Content
 
-Hi My name is Abhishek Telugu. This is my very first class of repository. Today I learn how to create a repository. I just want to test this repository. Here are some good lines.
+Hi My name is Abhishek Telugu. This is my very first class of repository. Today I learn how to create a repository. I just want to test this repository. Here are a check image.
 
 ![Hosted image](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "Lynx Kitten")
 
