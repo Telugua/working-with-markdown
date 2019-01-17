@@ -92,5 +92,5 @@ dcase@nwmissouri.edu
 
 Hi My name is Abhishek Telugu. This is my very first class of repository. Today I learn how to create a repository. I just want to test this repository. Here are a check image.
 
-![Hosted image](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "Lynx Kitten")
+![Hosted image](https://geekyartistlibrarian.wordpress.com/2014/06/26/open-source-vs-open-access-vs-free/)
 
