@@ -90,7 +90,7 @@ dcase@nwmissouri.edu
 
 ##  My new Content
 
-Hi My name is Abhishek Telugu. This is my very first class of repository. Today I learn how to create a repository. I just want to test this repository. Here are a check image.
+Hi My name is Abhishek Telugu. This is my very first class of repository. Today I learn how to create a repository. I just want to test this repository. Here is a check image.
 
-![Hosted image](https://geekyartistlibrarian.wordpress.com/2014/06/26/open-source-vs-open-access-vs-free/)
+![Hosted image](https://www.pexels.com/photo/man-and-woman-sitting-in-front-of-table-with-books-and-cup-of-coffee-facing-each-other-1056551/ "took this image from www.pexels.com")
 
